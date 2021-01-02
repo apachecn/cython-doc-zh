@@ -6,7 +6,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 起初就把事情做对是完全没必要的。但最后要把事情做对是绝对必要的。——Andrew Hunt & David Thomas
 
 * [在线阅读](https://cython.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/cython-doc-zh/)

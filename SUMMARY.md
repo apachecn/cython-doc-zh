@@ -17,6 +17,7 @@
     +   [纯 Python 模式](docs/17.md)
     +   [使用 NumPy](docs/18.md)
     +   [使用 Python 数组](docs/19.md)
+    +   [用Cython写并行代码](docs/42.md)
     +   [进一步阅读](docs/20.md)
     +   [相关工作](docs/21.md)
     +   [附录：在 Windows 上安装 MinGW](docs/22.md)

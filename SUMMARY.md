@@ -32,6 +32,7 @@
     +   [在 Cython 中使用 C ++](docs/31.md)
     +   [融合类型（模板）](docs/32.md)
     +   [将 Cython 代码移植到 PyPy](docs/33.md)
+    +   [从Cython0.29迁移到3.0](docs/43.md)
     +   [Limitations](docs/34.md)
     +   [Cython 和 Pyrex 之间的区别](docs/35.md)
     +   [键入的内存视图](docs/36.md)

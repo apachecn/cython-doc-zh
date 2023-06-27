@@ -26,7 +26,7 @@
     +   [扩展类型](docs/25.md)
     +   [扩展类型的特殊方法](docs/26.md)
     +   [在 Cython 模块之间共享声明](docs/27.md)
-    +   [与外部 C 代码连接](docs/28.md)
+    +   [外部 C 代码的接口](docs/28.md)
     +   [源文件和编译](docs/29.md)
     +   [早期绑定以提升速度](docs/30.md)
     +   [在 Cython 中使用 C ++](docs/31.md)

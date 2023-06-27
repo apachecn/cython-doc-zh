@@ -35,7 +35,7 @@
     +   [从Cython0.29迁移到3.0](docs/43.md)
     +   [Limitations](docs/34.md)
     +   [Cython 和 Pyrex 之间的区别](docs/35.md)
-    +   [键入的内存视图](docs/36.md)
+    +   [类型化的内存视图](docs/36.md)
     +   [实现缓冲协议](docs/37.md)
     +   [使用并行性](docs/38.md)
     +   [调试你的 Cython 程序](docs/39.md)

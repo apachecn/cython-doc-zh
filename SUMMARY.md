@@ -41,3 +41,4 @@
     +   [调试你的 Cython 程序](docs/39.md)
     +   [用于 NumPy 用户的 Cython](docs/40.md)
     +   [Pythran 作为 Numpy 后端](docs/41.md)
+    +   [Cython和GIL](docs/44.md)

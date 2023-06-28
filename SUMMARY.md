@@ -38,6 +38,7 @@
     +   [类型化的内存视图](docs/36.md)
     +   [实现缓冲协议](docs/37.md)
     +   [使用并行性](docs/38.md)
+    +   [故障排除](docs/45.md)
     +   [调试你的 Cython 程序](docs/39.md)
     +   [用于 NumPy 用户的 Cython](docs/40.md)
     +   [Pythran 作为 Numpy 后端](docs/41.md)

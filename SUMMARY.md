@@ -14,6 +14,7 @@
     +   [性能分析](docs/14.md)
     +   [Unicode 和传递字符串](docs/15.md)
     +   [内存分配](docs/16.md)
+    +   [在C/C ++程序中内嵌Cython模块](docs/47.md)
     +   [纯 Python 模式](docs/17.md)
     +   [使用 NumPy](docs/18.md)
     +   [使用 Python 数组](docs/19.md)

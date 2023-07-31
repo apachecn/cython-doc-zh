@@ -1,0 +1,79 @@
+site_name: 【布客】Cython 中文翻译
+site_url: https://cython.apachecn.org
+
+# Repository
+repo_name: apachecn/cython-doc-zh
+repo_url: https://github.com/apachecn/cython-doc-zh
+
+theme:
+  name: material
+  custom_dir: themes_material
+  locale: zh_CN
+  analytics:
+    gtag: G-8DP4GX97XY
+  features:
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  # - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - "Cython 中文文档": "index.md"
+  - "入门":
+    - "Cython - 概述": "3.md"
+    - "安装 Cython": "4.md"
+    - "构建 Cython 代码": "5.md"
+    - "通过静态类型更快的代码": "6.md"
+  - "教程":
+    - "基础教程": "8.md"
+    - "调用 C 函数": "9.md"
+    - "使用 C 库": "10.md"
+    - "扩展类型（又名.cdef 类）": "11.md"
+    - "pxd 文件": "12.md"
+    - "Caveats": "13.md"
+    - "性能分析": "14.md"
+    - "Unicode 和传递字符串": "15.md"
+    - "内存分配": "16.md"
+    - "在C/C ++程序中内嵌Cython模块": "47.md"
+    - "纯 Python 模式": "17.md"
+    - "使用 NumPy": "18.md"
+    - "使用 Python 数组": "19.md"
+    - "用Cython写并行代码": "42.md"
+    - "进一步阅读": "20.md"
+    - "相关工作": "21.md"
+    - "附录：在 Windows 上安装 MinGW": "22.md"
+  - "用户指南":
+    - "语言基础": "24.md"
+    - "扩展类型": "25.md"
+    - "扩展类型的特殊方法": "26.md"
+    - "在 Cython 模块之间共享声明": "27.md"
+    - "与外部 C 代码连接": "28.md"
+    - "源文件和编译": "29.md"
+    - "早期绑定以提升速度": "30.md"
+    - "在 Cython 中使用 C ++": "31.md"
+    - "融合类型（模板）": "32.md"
+    - "将 Cython 代码移植到 PyPy": "33.md"
+    - "从Cython0.29迁移到3.0": "43.md"
+    - "Limitations": "34.md"
+    - "Cython 和 Pyrex 之间的区别": "35.md"
+    - "类型化的内存视图": "36.md"
+    - "实现缓冲协议": "37.md"
+    - "使用并行性": "38.md"
+    - "调试你的 Cython 程序": "39.md"
+    - "用于 NumPy 用户的 Cython": "40.md"
+    - "Pythran 作为 Numpy 后端": "41.md"
+    - "Cython和GIL": "44.md"
+    - "故障排查": "45.md"
+    - "常见问题": "46.md"
+  - "贡献者": "contrib.md"
+  - "关于我们": "https://www.apachecn.org/about/"
+  - "中文资源合集": "https://docs.apachecn.org"
